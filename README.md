@@ -1,4 +1,4 @@
-# Leads Wizard: A Cutting-Edge Conversational AI for Lead Engagement
+# Leads Wizard: A Cutting-Edge Conversational AI for Empathetic Lead Engagement
 
 <img src="https://github.com/PV-Bhat/LeadsWizard/blob/main/Assets/L2.png" alt="Logo" width="200"/>
 
