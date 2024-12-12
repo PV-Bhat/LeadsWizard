@@ -116,7 +116,8 @@ These metrics and visualizations illustrate Leads Wizard’s transformative pote
 ## Supporting Tools
 - **Meta-Labeler**: An open-source Python-based tool with user-friendly UI for conversation labeling and anonymization.
   _[Try it here](https://github.com/PV-Bhat/Meta-Labeler/blob/main/README.md)_
-- **LW Chrome Extension**: Simplifies JSON conversation data extraction from Meta Business Suite. More details here
+- **LW Chrome Extension**: Simplifies JSON conversation data extraction from Meta Business Suite. 
+_[More details here](https://github.com/PV-Bhat/LW-Chrome-Extension)_
 
 ## Timeline
 - **Development:** Conceptualized and prototyped in 12 days.
