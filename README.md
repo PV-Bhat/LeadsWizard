@@ -1,8 +1,9 @@
 # Leads Wizard: A Cutting-Edge Conversational AI for Empathetic Lead Engagement
+<div align="center">
+<img src="https://github.com/PV-Bhat/LeadsWizard/blob/main/Assets/L2.png" align="center" alt="Logo" width="200"/>
+</div> <br>
 
-<img src="https://github.com/PV-Bhat/LeadsWizard/blob/main/Assets/L2.png" alt="Logo" width="200"/>
-
-**_Is it really possible to automate a repetetive customer-focused task like lead engagement without losing the human touch?_**
+_Is it really possible to automate a repetetive customer-focused task like lead engagement <ins>without losing the **human touch?**<ins/>_
 # 🔑 Executive Summary
 
 Leads Wizard (LW) is a groundbreaking AI system that redefines lead engagement with innovation, empathy, and measurable business impact. Developed in a fast-paced startup environment, LW is designed to bridge the gap between automation and human-centric engagement.
