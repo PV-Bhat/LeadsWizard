@@ -130,7 +130,8 @@ _This visualization highlights how LW’s dynamic emotional scoring and contextu
 - **56%** boost in engagement scores for the Intake segment over templated methods.
 - **17% higher lead qualification rate** compared to templated methods.
 
-These metrics and visualizations illustrate Leads Wizard’s transformative potential, merging cutting-edge AI with empathetic user design to achieve superior business outcomes.
+_These metrics and visualizations illustrate Leads Wizard’s transformative potential, merging cutting-edge AI with empathetic user design to achieve superior business outcomes._
+
 ---
 
 ## Supporting Tools
