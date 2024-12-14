@@ -2,7 +2,31 @@
 
 <img src="https://github.com/PV-Bhat/LeadsWizard/blob/main/Assets/L2.png" alt="Logo" width="200"/>
 
-Leads Wizard is an innovative GPT-powered tool that revolutionizes lead engagement with dynamic emotional frameworks, psychological insights, and advanced prompting techniques.
+**_Is it really possible to automate a repetetive customer-focused task like lead engagement without losing the human touch?_**
+# 🔑 Executive Summary
+
+Leads Wizard (LW) is a groundbreaking AI system that redefines lead engagement with innovation, empathy, and measurable business impact. Developed in a fast-paced startup environment, LW is designed to bridge the gap between automation and human-centric engagement.
+
+**What LW changed:** _Automated lead engagement and conversions where manual & templated efforts fell short._
+
+### Key Innovations:
+- **🧠 Chain-of-Thought (CoT) Reasoning:** Advanced step-by-step processing for complex scenarios.
+- **💡 Dynamic Emotional Scoring:** Real-time sentiment analysis for empathetic responses.
+- **🔄 Filtered Few-Shot Learning (fFSL):** Cost-effective iterative improvements without traditional fine-tuning.
+- **📈 Strategic Response Planning:** Aligns conversations with business outcomes.
+
+### 📊 Tangible Impact:
+- **+56% engagement improvement** in the Intake stage.
+- **+45.9% sentiment improvement** in the Engaged segment.
+- **+17% higher lead qualification** rates than templated methods.
+
+### 📂 Explore More:
+- Interactive Visualizations to see the real-world impact at a glance (Flourish Interactive Visuals):
+	- <a href="https://public.flourish.studio/visualisation/20669562/" target="_blank" title="Click to View Interactive Visualization on Flourish"> Key Metrics Bar Graph </a> <br>
+	- <a href="https://public.flourish.studio/visualisation/20671670/" target="_blank" title="Click to View Interactive Visualization on Flourish"> Sales Funnel Stages Slope Graph </a> <br>
+	- <a href="https://public.flourish.studio/visualisation/20673018/" target="_blank" title="Click to View Interactive Visualization on Flourish"> Chord Diagram with Empathy and Perception Comparison </a> <br>
+ 	- <a href="https://public.flourish.studio/story/2765196/" target="_blank" title="Click to View Interactive Visualization on Flourish"> Open Dataset Visualizer w/ custom filtering for transparency </a> 
+- Features and Supporting Tools showcasing technical excellence: [Jump to tools](#supporting-tools)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,6 +37,7 @@ Leads Wizard is an innovative GPT-powered tool that revolutionizes lead engageme
 	3. [Emotional and Perceptual Comparison](#3-comparative-emotional-engagement-and-perception)
 - [Supporting Tools](#supporting-tools)
 - [Timeline](#timeline)
+- [Explore dataset, Data Handling protocols and privacy](#dataset-used)
 - [License](https://github.com/PV-Bhat/LeadsWizard/blob/main/LICENSE)
 
 ## Introduction
@@ -26,19 +51,14 @@ Leads Wizard (LW) incorporates cutting-edge AI techniques and systems-level inno
 
 1. **Inner Monologue and Chain-of-Thought Reasoning (CoT)**  
 	   Enhances response quality by simulating step-by-step reasoning for tailored and intelligent conversations.
-
 2. **Filtered Few-Shot Learning (fFSL)**  
 	   Introduces a cost-effective, systems-level feedback loop that iteratively improves LW’s performance by leveraging real-world data.
-
 3. **Dynamic Emotional Scoring and Context Analysis**  
 	   Analyzes user sentiment and contextual cues to deliver empathetic, validating, and context-aware responses.
-
 4. **Strategic Response Planning**  
 	   Dynamically adjusts tone, framing, and goals to align lead interactions with high-level business objectives.
-
 5. **Modular Architecture**  
 	   Enables seamless integration with APIs and external data sources, offering flexibility and scalability.
-
 6. **Iterative Improvement Ecosystem**  
 	   Integrated workflows with open-source tools like the **meta-labeller** and **LW chrome extension** to extract, analyze, and refine responses continuously.
 
@@ -110,7 +130,6 @@ _This visualization highlights how LW’s dynamic emotional scoring and contextu
 - **17% higher lead qualification rate** compared to templated methods.
 
 These metrics and visualizations illustrate Leads Wizard’s transformative potential, merging cutting-edge AI with empathetic user design to achieve superior business outcomes.
-
 ---
 
 ## Supporting Tools
@@ -123,4 +142,17 @@ _[More details here](https://github.com/PV-Bhat/LW-Chrome-Extension)_
 - **Development:** Conceptualized and prototyped in 12 days.
 - **Iterative Improvements:** Added CoT reasoning and dynamic emotional scoring based on real-world data.
 - **Adoption:** Collaborated with leadership for API integration and multi-team automation.
-[Find the Detailed Timeline here](https://github.com/PV-Bhat/LeadsWizard/blob/main/Features.md)
+[Find the Detailed Timeline here](https://github.com/PV-Bhat/LeadsWizard/blob/main/Timeline.md)
+
+## Dataset used
+(Data handling, Privacy and Bias management)
+
+<img src="https://github.com/PV-Bhat/LeadsWizard/blob/main/Assets/Dataset.gif" alt="Bar Graph" height="350"/>
+<p> <i>
+  Figure 4 - Interactive Dataset Visualizer - Each circle represents a conversation with a unique ID and attributes. Feel free to interact further:
+  <a href="https://public.flourish.studio/story/2765196/" target="_blank" title="Explore the dataset on Flourish"> Explore the dataset on Flourish </a>
+</p> </i>
+
+ - The dataset used was from a real-world startup, with 250+ datapoints (conversations with leads).
+ - In light of maintaining privacy and protecting proprietary information, all data was anonymized and meta-labeled first. Each conversation maintains the unique conversation ID generated during the process of downloading using the extension, and maintains transparency.
+ - The dataset was downloaded with LW-Chrome-Extension and manually labelled with Meta-Labeler (Both are open-source tools). Despite following strict labelling protocols and blinded cross-testing, it's important to note that manual labeling inherently adds bias to the data. Therefore the metrics above are a pilot scale proof of concept which can easily be automated moving forward to mitigate manual biases.
